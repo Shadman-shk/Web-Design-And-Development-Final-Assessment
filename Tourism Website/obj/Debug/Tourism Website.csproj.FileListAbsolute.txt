@@ -1,0 +1,2 @@
+H:\Web-Design-And-Development-Final-Assessment\Tourism Website\obj\Debug\Tourism Website.csproj.AssemblyReference.cache
+H:\Web-Design-And-Development-Final-Assessment\Tourism Website\obj\Debug\Tourism Website.csproj.CoreCompileInputs.cache
